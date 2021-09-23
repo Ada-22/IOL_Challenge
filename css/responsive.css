@@ -1,0 +1,32 @@
+@media (min-width: 480px){
+    h2{
+        margin-top: 1rem;
+    }
+    .blue{
+        text-align: center;
+    }
+    .description{
+        max-width: 60%;
+        margin: 0 auto;
+    }
+    .bullets{
+        padding: 4rem 0 2rem;
+        margin: 0 auto;
+        max-width: 65%;
+    }
+    .change{
+        font-size: 0.9rem;
+    }
+    .card{
+        max-width: 50%;
+    }
+    .reference{
+        margin: 0;
+    }
+    .btn-primary{
+        width: 30%;
+        margin-left: 70%;
+    }
+    
+    
+}
