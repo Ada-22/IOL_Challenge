@@ -45,14 +45,14 @@ h2{
     margin-bottom: 1rem;
 }
 .important{
-    min-width:312px ;
+    width: 94%; ;
     margin: 1rem 0 1rem 0;
 }
 .bold{
     font-weight: 700;
 }
 .reference{
-    font-size: 1rem;
+    font-size: 0.8rem;
     margin: 0 auto;
     color:black;
 }
@@ -71,7 +71,7 @@ i{
   }
 .container-fluid .value, .bullets{
     max-width:1000px;
-    margin: 3rem auto;
+    margin: 1rem auto;
 }  
 .form-row{
     background-color:#ECEEFB;
@@ -94,11 +94,12 @@ h5{
     font-weight: 400;
 }
 .detail{
-    margin: 3rem 0 1rem;
+    margin-top: 4rem;
+    margin-bottom: 0;
 }
 .btn-primary{
     background-color: #6439FF;
     border: none;
     width: 100%;
-    margin-bottom: 1rem;
+    margin: 1rem 0;
 }

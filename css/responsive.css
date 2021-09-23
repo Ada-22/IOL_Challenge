@@ -14,6 +14,11 @@
         margin: 0 auto;
         max-width: 65%;
     }
+    .container-fluid .value, .bullets{
+        max-width:1000px;
+        min-width: 300px;
+        margin: 3rem auto;
+    }  
     .change{
         font-size: 0.9rem;
     }
@@ -26,6 +31,9 @@
     .btn-primary{
         width: 30%;
         margin-left: 70%;
+    }
+    .price{
+        margin: 0;
     }
     
     
